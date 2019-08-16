@@ -1,0 +1,8 @@
+1-25    Task: Select ALL options that could be the breed of dog in this image:
+       Options: Chihuahua,   Akita dog,   Shiba,   Papillon,   Poodle,   Pomeranian,   Pug,   Shih tzu,   Maltese dog,   Yorkshire terrier
+       
+26-50  Task: Select ALL options that could be the breed of dog in this image:
+       Options: Border Collie,   German Shepherd Dog,   Doberman Pinscher,   Chow Chow,   Tibetan Mastiff,   Samoyed,   Rottweiler,   Alaskan sled dog,   Golden Retriever,   Akita dog 
+         
+51-100 Task: Select ALL options that could be the breed of animal in this image£º
+       Options: Leopard,   Bear,   Tiger,   Wolf,   Lion,   Crocodile,   Elephant,   Horses,   Cattle,   Sheep
